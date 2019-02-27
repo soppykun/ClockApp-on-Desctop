@@ -1,2 +1,2 @@
-##ClockApp on Desktop
+ClockApp on Desktop
 WallpaperEngineは買いたくない
