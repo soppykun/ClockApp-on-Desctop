@@ -1,0 +1,11 @@
+{
+  "name": "clockapp",
+  "version": "1.0.0",
+  "description": "clock app ?",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "soppy",
+  "license": "ISC"
+}
